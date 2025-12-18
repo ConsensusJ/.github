@@ -1,9 +1,7 @@
 = Welcome to ConsensusJ
 
+image:https://img.shields.io/matrix/consensusj:matrix.org?logo=matrix&label=ConsensusJ[link="https://matrix.to/#/#consensusj:matrix.org"]
+
 The main repository for **ConsensusJ** is https://github.com/ConsensusJ/consensusj[ConsensusJ/consensusj] go there to browse or create Issues or Pull Requests.
 
-For user or developer chat, join our https://matrix.org[Matrix] _space_ https://matrix.to/#/#consensusj:matrix.org[#consensusj:matrix.org], which contains:
-
-* The https://matrix.to/#/#consensusj-users:matrix.org[consensusj-users] room for discussion among developers _using_ **ConsensusJ** in their projects or using ConsensusJ applications like `jrpc`.
-* The https://matrix.to/#/#consensusj-developers:matrix.org[consensusj-developers] room for developers actively _working on_ **ConsensusJ**.
-
+For user or developer chat, join our https://matrix.org[Matrix] _space_ by clicking on the SVG badge above.
