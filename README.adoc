@@ -1,0 +1,3 @@
+= ConsensusJ .github Repository
+
+This currently includes only `profile/README.adoc` <<profile/README.adoc#,profile/README.adoc>> that is included on the https://github.com/ConsensusJ[ConsensusJ GitHub Organization Page].
